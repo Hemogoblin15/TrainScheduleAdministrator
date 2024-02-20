@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<Trenuri time="15:30">
+	<Tren nume="123">
+		<Statii>
+			<Statie id="1" loc="Iasi" pOra="05:07" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Pascani" sOra="06:00" pOra="06:15" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Bacau" sOra="07:30" pOra="07:40" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="4" loc="Buzau" sOra="09:20" pOra="09:30" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="5" loc="Ploiesti" sOra="11:00" pOra="11:15" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="6" loc="Bucuresti" sOra="13:00" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren nume="234">
+		<Statii>
+			<Statie id="1" loc="Bucuresti" pOra="12:07" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Ploiesti" sOra="12:45" pOra="13:00" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Campina" sOra="13:25" pOra="13:30" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="4" loc="Sinaia" sOra="14:00" pOra="14:05" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="5" loc="Predeal" sOra="14:20" pOra="14:40" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="6" loc="Brasov" sOra="15:00" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren nume="345">
+		<Statii>
+			<Statie id="1" loc="Constanta" pOra="08:25" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Bucuresti" sOra="10:45" pOra="11:00" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Craiova" sOra="16:45" pOra="16:55" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="4" loc="Drobeta" sOra="18:00" pOra="18:25" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="5" loc="Lugoj" sOra="19:00" pOra="19:10" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="6" loc="Timisoara" sOra="20:50" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren nume="456">
+		<Statii>
+			<Statie id="1" loc="Iasi" pOra="15:25" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Pascani" sOra="16:10" pOra="16:55" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Targu Neamt" sOra="17:35" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren nume="567">
+		<Statii>
+			<Statie id="1" loc="Oradea" pOra="05:35" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Bratca" sOra="07:15" pOra="07:30" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Huedin" sOra="09:20" pOra="09:35" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="4" loc="Cluj Napoca" sOra="10:55" pOra="11:00" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="5" loc="Blaj" sOra="12:10" pOra="12:20" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="6" loc="Sibiu" sOra="13:00" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+	<Tren nume="678">
+		<Statii>
+			<Statie id="1" loc="Baia Mare" pOra="05:35" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="2" loc="Gherla" sOra="10:45" pOra="11:00" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="3" loc="Cluj Napoca" sOra="16:45" pOra="16:55" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="4" loc="Aiud" sOra="18:00" pOra="18:25" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="5" loc="Brasov" sOra="19:00" pOra="19:10" tIntarziere="0" ifIntarziere="false" />
+			<Statie id="6" loc="Bucuresti" sOra="20:50" tIntarziere="0" ifIntarziere="false" />
+		</Statii>
+	</Tren>
+</Trenuri>
